@@ -1,0 +1,41 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch gregorianCalendar",
+            "request": "launch",
+            "mainClass": "gregorianCalendar",
+            "projectName": "ModuleUn"
+        },
+        {
+            "type": "java",
+            "name": "Launch jeudicToto",
+            "request": "launch",
+            "mainClass": "jeudicToto",
+            "projectName": "ModuleUn"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch JeuDictionnaire",
+            "request": "launch",
+            "mainClass": "JeuDictionnaire",
+            "projectName": "ModuleUn"
+        },
+        {
+            "type": "java",
+            "name": "Launch td2_differents_types_fonctions",
+            "request": "launch",
+            "mainClass": "td2_differents_types_fonctions"
+        }
+    ]
+}
